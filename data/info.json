@@ -1,0 +1,20 @@
+{
+  "en": {
+    "firstname": "Miguel",
+    "secondname": "Coelho",
+    "lastname": "Ribeiro",
+    "phone": "+351 914576608",
+    "email": "miguel.rib.20@gmail.com",
+    "label_phone": "Phone",
+    "label_email": "Email"
+  },
+  "pt": {
+    "firstname": "Miguel",
+    "secondname": "Coelho",
+    "lastname": "Ribeiro",
+    "phone": "+351 914576608",
+    "email": "miguel.rib.20@gmail.com",
+    "label_phone": "Telefone",
+    "label_email": "Email"
+  }
+}
