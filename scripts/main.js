@@ -14,6 +14,10 @@ function load(language) {
       translations.label_email;
     document.querySelector("#above-header-email").innerHTML =
       translations.email;
+
+    document.querySelector("#header-name").innerHTML =
+      translations.firstname + " " + translations.lastname;
+    document.querySelector("#header-title").innerHTML = translations.title;
   });
 }
 

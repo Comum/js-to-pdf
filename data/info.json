@@ -5,6 +5,7 @@
     "lastname": "Ribeiro",
     "phone": "+351 914576608",
     "email": "miguel.rib.20@gmail.com",
+    "title": "Web Developer",
     "label_phone": "Phone",
     "label_email": "Email"
   },
@@ -14,6 +15,7 @@
     "lastname": "Ribeiro",
     "phone": "+351 914576608",
     "email": "miguel.rib.20@gmail.com",
+    "title": "Web Developer",
     "label_phone": "Telefone",
     "label_email": "Email"
   }
