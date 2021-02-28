@@ -59,3 +59,9 @@ body {
 .header-content #header-title {
   color: dimgrey;
 }
+
+.separator {
+    border: none;
+    height: 2px;
+    background-color: black;
+}
