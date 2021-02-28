@@ -88,6 +88,7 @@ body {
 }
 
 .intro-section-details li {
+  margin-top: 5px;
   white-space: nowrap;
   display: inline-block;
   flex-grow: 1;
