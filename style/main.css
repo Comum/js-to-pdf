@@ -61,7 +61,35 @@ body {
 }
 
 .separator {
-    border: none;
-    height: 2px;
-    background-color: black;
+  border: none;
+  height: 2px;
+  background-color: black;
+}
+
+.intro-section {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.intro-section-text {
+  padding-right: 40px;
+
+  flex-shrink: 1;
+  white-space: wrap;
+}
+
+.intro-section-details {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+.intro-section-details li {
+  white-space: nowrap;
+  display: inline-block;
+  flex-grow: 1;
+  flex-shrink: 0;
 }

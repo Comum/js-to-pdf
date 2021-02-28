@@ -20,7 +20,7 @@
       </select>
       <button>Print</button>
     </div>
-    <div class="page">
+    <section class="page">
       <div class="above-header">
         <span><b id="above-header-name"></b></span>
         <span id="above-header-label-phone"></span>:
@@ -33,9 +33,30 @@
           <div id="header-name"></div>
           <div id="header-title"></div>
         </div>
-        <hr class="separator" />
       </div>
-    </div>
+      <hr class="separator" />
+      <div class="intro-section">
+        <div id="intro-section-text" class="intro-section-text"></div>
+        <ul class="intro-section-details">
+          <li>
+            <span><b id="intro-section-details-phone"></b></span>:
+            <span id="intro-section-details-phone-value"></span>
+          </li>
+          <li>
+            <span><b id="intro-section-details-email"></b></span>:
+            <span id="intro-section-details-email-value"></span>
+          </li>
+          <li>
+            <span><b id="intro-section-details-linkedin"></b></span>:
+            <a id="intro-section-details-linkedin-value" target="_blank"></a>
+          </li>
+          <li>
+            <span><b id="intro-section-details-github"></b></span>:
+            <a id="intro-section-details-github-value" target="_blank"></a>
+          </li>
+        </ul>
+      </div>
+    </section>
 
     <script src="node_modules\axios\dist\axios.min.js"></script>
     <script src="scripts/main.js"></script>

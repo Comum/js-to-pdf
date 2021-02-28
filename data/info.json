@@ -5,9 +5,16 @@
     "lastname": "Ribeiro",
     "phone": "+351 914576608",
     "email": "miguel.rib.20@gmail.com",
+    "linkedin_handle": "@miguel.ribeiro",
+    "linkedin_url": "https://www.linkedin.com/in/miguel-ribeiro-7bb32a110/",
+    "github_handle": "@Comum",
+    "github_url": "https://github.com/Comum",
     "title": "Web Developer",
+    "intro": "Hello, my name is Miguel and my objective in life is to be happy. I started my professional career as an IT Consultant, having worked in several fields of the area. I try to maintain a professional attitude, with an easy-going and friendly mind-set.",
     "label_phone": "Phone",
-    "label_email": "Email"
+    "label_email": "Email",
+    "label_linkedin": "Linkedin",
+    "label_github": "Github"
   },
   "pt": {
     "firstname": "Miguel",
@@ -15,8 +22,15 @@
     "lastname": "Ribeiro",
     "phone": "+351 914576608",
     "email": "miguel.rib.20@gmail.com",
+    "linkedin_handle": "@miguel.ribeiro",
+    "linkedin_url": "https://www.linkedin.com/in/miguel-ribeiro-7bb32a110/",
+    "github_handle": "@Comum",
+    "github_url": "https://github.com/Comum",
     "title": "Web Developer",
+    "intro": "Olá, o meu nome é Miguel e o meu objectivo de vide é ser feliz. Comecei o meu percuro profissional como um consultor de TI, tendo trabalho em vários campos da área. Tento manter uma postura profissional, tendo uma mentalidade descontraída e amigável.",
     "label_phone": "Telefone",
-    "label_email": "Email"
+    "label_email": "Email",
+    "label_linkedin": "Linkedin",
+    "label_github": "Github"
   }
 }
