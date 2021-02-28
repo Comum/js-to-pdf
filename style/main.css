@@ -34,7 +34,7 @@ body {
   font-weight: 400;
   font-family: "Roboto", sans-serif;
 
-  padding: 30px 60px 0px;
+  padding: 30px 60px 30px;
 }
 
 .above-header {
@@ -52,7 +52,7 @@ body {
   display: flex;
   justify-content: space-between;
 
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
 }
 
@@ -92,4 +92,13 @@ body {
   display: inline-block;
   flex-grow: 1;
   flex-shrink: 0;
+}
+
+.section-header {
+  width: 100%;
+  margin-top: 20px;
+
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 600;
 }

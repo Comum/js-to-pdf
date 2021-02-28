@@ -33,6 +33,12 @@ function load(language) {
     document.querySelector("#intro-section-details-github").innerHTML = translations.label_github;
     document.querySelector("#intro-section-details-github-value").innerHTML = translations.github_handle;
     document.querySelector("#intro-section-details-github-value").href = translations.github_url;
+
+    // section headers
+    document.querySelector("#section-header-skills").innerHTML = translations.label_skills;
+    document.querySelector("#section-header-history").innerHTML = translations.label_history;
+    document.querySelector("#section-header-education").innerHTML = translations.label_education;
+    document.querySelector("#section-header-additional").innerHTML = translations.label_additional;
   });
 }
 

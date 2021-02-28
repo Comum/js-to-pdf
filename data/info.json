@@ -14,7 +14,11 @@
     "label_phone": "Phone",
     "label_email": "Email",
     "label_linkedin": "Linkedin",
-    "label_github": "Github"
+    "label_github": "Github",
+    "label_skills": "Key skills",
+    "label_history": "Work history",
+    "label_education": "Education",
+    "label_additional": "Additional information"
   },
   "pt": {
     "firstname": "Miguel",
@@ -31,6 +35,10 @@
     "label_phone": "Telefone",
     "label_email": "Email",
     "label_linkedin": "Linkedin",
-    "label_github": "Github"
+    "label_github": "Github",
+    "label_skills": "Habilidade principais",
+    "label_history": "Experiência profissional",
+    "label_education": "Educação",
+    "label_additional": "Informação adicional"
   }
 }
