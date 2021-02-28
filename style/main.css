@@ -103,3 +103,28 @@ body {
   font-size: 16px;
   font-weight: 600;
 }
+
+@media print {
+  @page {
+    margin: 0;
+  }
+
+  body {
+    -webkit-print-color-adjust: exact !important;
+    padding: 30px 60px 30px;
+    box-sizing: border-box;
+  }
+
+  .config-area {
+    display: none;
+  }
+
+  #cv-section * {
+    visibility: visible;
+    -webkit-print-color-adjust: exact !important;
+  }
+
+  .page {
+    width: 100%;
+  }
+}
