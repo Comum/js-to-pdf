@@ -60,6 +60,26 @@ function load(language) {
       translations.label_education;
     document.querySelector("#section-header-additional").innerHTML =
       translations.label_additional;
+
+    // skills section
+    const skillSection = document.querySelector("#skills-section");
+    skillSection.innerHTML = '';
+
+    translations.skills.forEach((skill) => {
+      let skillList = '';
+
+      skill.list.forEach(skillValue => {
+        skillList += `<li class="skills-section-item">${skillValue}</li>`
+      })
+
+      skillSection.innerHTML += `
+        <div class="skills-section-area">
+          <div class="skills-section-title"><b>${skill.label}</b></div>
+          <ul class="skills-section-list">${skillList}</ul>
+        </div>
+
+      `;
+    });
   });
 }
 

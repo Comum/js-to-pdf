@@ -128,3 +128,21 @@ body {
     width: 100%;
   }
 }
+
+#skills-section {
+  padding: 10px 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skills-section-area {
+  width: 50%;
+}
+
+.skills-section-item {
+  padding-bottom: 5px;
+}
+
+.skills-section-item:last-child {
+  padding-bottom: 0;
+}
