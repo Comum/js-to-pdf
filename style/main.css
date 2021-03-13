@@ -146,3 +146,11 @@ body {
 .skills-section-item:last-child {
   padding-bottom: 0;
 }
+
+.education-section-item {
+  padding-bottom: 5px;
+}
+
+.education-section-item:last-child {
+  padding-bottom: 0;
+}

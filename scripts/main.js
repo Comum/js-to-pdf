@@ -63,14 +63,14 @@ function load(language) {
 
     // skills section
     const skillSection = document.querySelector("#skills-section");
-    skillSection.innerHTML = '';
+    skillSection.innerHTML = "";
 
     translations.skills.forEach((skill) => {
-      let skillList = '';
+      let skillList = "";
 
-      skill.list.forEach(skillValue => {
-        skillList += `<li class="skills-section-item">${skillValue}</li>`
-      })
+      skill.list.forEach((skillValue) => {
+        skillList += `<li class="skills-section-item">${skillValue}</li>`;
+      });
 
       skillSection.innerHTML += `
         <div class="skills-section-area">
@@ -80,6 +80,16 @@ function load(language) {
 
       `;
     });
+
+    // education section
+    const educationSection = document.querySelector("#education-section");
+    let eductationList = "";
+
+    translations.education.forEach((value) => {
+      eductationList += `<li class="education-section-item">${value}</li>`;
+    });
+
+    educationSection.innerHTML = `<ul class="education-section-list">${eductationList}</ul>`;
   });
 }
 
