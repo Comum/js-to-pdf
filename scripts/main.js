@@ -90,6 +90,16 @@ function load(language) {
     });
 
     educationSection.innerHTML = `<ul class="education-section-list">${eductationList}</ul>`;
+
+    // additional section
+    const additionalSection = document.querySelector("#additional-section");
+    let additionalList = "";
+
+    translations.additional.forEach((value) => {
+      additionalList += `<li class="additional-section-item">${value}</li>`;
+    });
+
+    additionalSection.innerHTML = `<ul class="additional-section-list">${additionalList}</ul>`;
   });
 }
 

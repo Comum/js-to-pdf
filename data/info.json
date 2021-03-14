@@ -36,6 +36,11 @@
       "2013 - Erasmus year at The University of York",
       "2009 - Certificate of Advanced English (CAE)"
     ],
+    "additional": [
+      "Portuguese language: native",
+      "English language: proficient",
+      "Spanish language: basic communication skills"
+    ],
     "label_phone": "Phone",
     "label_email": "Email",
     "label_linkedin": "Linkedin",
@@ -81,6 +86,11 @@
       "2014 - Mestrado integrtado em Engenharia Electrotécnica e Computadores na Faculdade de Engenharia da Universidade do Porto",
       "2013 - Ano de Erasmus na The University of York",
       "2009 - Certificado Avançado de Inglês (CAE)"
+    ],
+    "additional": [
+      "Lngua Portuguesa: nativo",
+      "Língua Inglesa: proficiente",
+      "Língua Espanhola: capacidade básica de comunicação"
     ],
     "label_phone": "Telefone",
     "label_email": "Email",

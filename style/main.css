@@ -154,3 +154,11 @@ body {
 .education-section-item:last-child {
   padding-bottom: 0;
 }
+
+.additional-section-item {
+  padding-bottom: 5px;
+}
+
+.additional-section-item:last-child {
+  padding-bottom: 0;
+}
