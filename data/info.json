@@ -41,6 +41,48 @@
       "English language: proficient",
       "Spanish language: basic communication skills"
     ],
+    "jobs": [
+      {
+        "role": "Web developer",
+        "company": "Mindera",
+        "website": "https://mindera.com/",
+        "period": "2020-05 to present",
+        "location": "Porto, Portugal",
+        "descriptions": []
+      },
+      {
+        "role": "Web developer",
+        "company": "Blip.pt",
+        "website": "https://blip.pt/",
+        "period": "2018-05 to 2020-04",
+        "location": "Porto, Portugal",
+        "descriptions": []
+      },
+      {
+        "role": "Front end developer",
+        "company": "This place",
+        "website": "https://www.thisplace.com/",
+        "period": "2017-04 to 2018-05",
+        "location": "London, United Kingdom",
+        "descriptions": []
+      },
+      {
+        "role": "IT Consultant",
+        "company": "Majo",
+        "website": "http://www.majo.pt/",
+        "period": "2014-10 to 2017-03",
+        "location": "Vila do Conde, Portugal",
+        "descriptions": []
+      }
+      {
+        "role": "Volunteer",
+        "company": "ESN Porto",
+        "website": "http://www.esnporto.org/",
+        "period": "2013-09 to 2017-03",
+        "location": "Porto, Portugal",
+        "descriptions": []
+      }
+    ],
     "label_phone": "Phone",
     "label_email": "Email",
     "label_linkedin": "Linkedin",
@@ -91,6 +133,48 @@
       "Lngua Portuguesa: nativo",
       "Língua Inglesa: proficiente",
       "Língua Espanhola: capacidade básica de comunicação"
+    ],
+    "jobs": [
+      {
+        "role": "Web developer",
+        "company": "Mindera",
+        "website": "https://mindera.com/",
+        "period": "2020-05 até presente",
+        "location": "Porto, Portugal",
+        "descriptions": []
+      },
+      {
+        "role": "Web developer",
+        "company": "Blip.pt",
+        "website": "https://blip.pt/",
+        "period": "2018-05 até 2020-04",
+        "location": "Porto, Portugal",
+        "descriptions": []
+      },
+      {
+        "role": "Front end developer",
+        "company": "This place",
+        "website": "https://www.thisplace.com/",
+        "period": "2017-04 até 2018-05",
+        "location": "London, United Kingdom",
+        "descriptions": []
+      },
+      {
+        "role": "IT Consultant",
+        "company": "Majo",
+        "website": "http://www.majo.pt/",
+        "period": "2014-10 até 2017-03",
+        "location": "Vila do Conde, Portugal",
+        "descriptions": []
+      }
+      {
+        "role": "Volunteer",
+        "company": "ESN Porto",
+        "website": "http://www.esnporto.org/",
+        "period": "2013-09 até 2017-03",
+        "location": "Porto, Portugal",
+        "descriptions": []
+      }
     ],
     "label_phone": "Telefone",
     "label_email": "Email",
