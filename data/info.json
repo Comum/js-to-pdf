@@ -13,7 +13,7 @@
     "intro": "Hello, my name is Miguel and my objective in life is to be happy. I started my professional career as an IT Consultant, having worked in several fields of the area. I try to maintain a professional attitude, with an easy-going and friendly mind-set.",
     "skills": [
       {
-        "label": "Front End",
+        "label": "Frontend",
         "list": [
           "React, AngularJS, jQuery",
           "HTML5",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "label": "Back End",
+        "label": "Backend",
         "list": ["NodeJS, NextJS", "PHP", "MySQL, MSSQL"]
       },
       {
@@ -48,23 +48,33 @@
         "website": "https://mindera.com/",
         "period": "2020-05 to present",
         "location": "Porto, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsible to help migrate the old Burberry website to the new one.",
+          "Responsible to add new features and layout."
+        ]
       },
       {
-        "role": "Web developer",
+        "role": "Frontend developer",
         "company": "Blip.pt",
         "website": "https://blip.pt/",
         "period": "2018-05 to 2020-04",
         "location": "Porto, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsible to maintain and add new features to the mobile experience of the Betfair betting platform.",
+          "Responsible for maintaining a 90% code coverage with unit tests.",
+          "Responsible for providing functional tests to avoid having to manually test the new developments."
+        ]
       },
       {
-        "role": "Front end developer",
+        "role": "Frontend developer",
         "company": "This place",
         "website": "https://www.thisplace.com/",
         "period": "2017-04 to 2018-05",
         "location": "London, United Kingdom",
-        "descriptions": []
+        "descriptions": [
+          "Responsible to deliver new layout and features to the Delhaize online storefront.",
+          "Started convertting the storefront to ReactJS."
+        ]
       },
       {
         "role": "IT Consultant",
@@ -72,7 +82,10 @@
         "website": "http://www.majo.pt/",
         "period": "2014-10 to 2017-03",
         "location": "Vila do Conde, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsible for MAJO Energy Audit: a managment platform to monitor energy values of private hydro energy production facilities.",
+          "Responsible for MAJO Intranet: a managment plataform based on the company's workflow."
+        ]
       },
       {
         "role": "Volunteer",
@@ -80,7 +93,10 @@
         "website": "http://www.esnporto.org/",
         "period": "2013-09 to 2017-03",
         "location": "Porto, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsible to maintain the current website.",
+          "Responsible for the buddy attribution platform."
+        ]
       }
     ],
     "label_phone": "Phone",
@@ -106,7 +122,7 @@
     "intro": "Olá, o meu nome é Miguel e o meu objectivo de vide é ser feliz. Comecei o meu percuro profissional como um consultor de TI, tendo trabalho em vários campos da área. Tento manter uma postura profissional, tendo uma mentalidade descontraída e amigável.",
     "skills": [
       {
-        "label": "Front End",
+        "label": "Frontend",
         "list": [
           "React, AngularJS, jQuery",
           "HTML5",
@@ -115,7 +131,7 @@
         ]
       },
       {
-        "label": "Back End",
+        "label": "Backend",
         "list": ["NodeJS, NextJS", "PHP", "MySQL, MSSQL"]
       },
       {
@@ -141,39 +157,55 @@
         "website": "https://mindera.com/",
         "period": "2020-05 até presente",
         "location": "Porto, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Reponsável por migrar o site antigo da Burberry para o novo",
+          "Reponsável por adicionar novas features e layout"
+        ]
       },
       {
-        "role": "Web developer",
+        "role": "Frontend developer",
         "company": "Blip.pt",
         "website": "https://blip.pt/",
         "period": "2018-05 até 2020-04",
         "location": "Porto, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsável por manter e adicionar novas funcionalidades a experência mobilde da plataforma de apostas Betfair.",
+          "Responsável por manter uma cobertura de testes unitários de pelo menos 90%.",
+          "Responsável por adicional testes functionais para evitar ter que testar manualmente os novos desenvolvimentos."
+        ]
       },
       {
-        "role": "Front end developer",
+        "role": "Frontend developer",
         "company": "This place",
         "website": "https://www.thisplace.com/",
         "period": "2017-04 até 2018-05",
         "location": "London, United Kingdom",
-        "descriptions": []
+        "descriptions": [
+          "Responsável por entregar novos layouts e funcionalidades para a plataforma de compras online Delhaize.",
+          "Investagação e início de conversão da stack anterior para ReactJS"
+        ]
       },
       {
-        "role": "IT Consultant",
+        "role": "Consultor de TI",
         "company": "Majo",
         "website": "http://www.majo.pt/",
         "period": "2014-10 até 2017-03",
         "location": "Vila do Conde, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsável pela aplicação MAJO Energy Audit: uma plataforma de gestão usada para monitorizar valores energéticos produzidos por produtores privados hídricos",
+          "Responsável pela aplicação MAJO Intranet: uma plataforma de gestão baseada no workflow da empresa."
+        ]
       },
       {
-        "role": "Volunteer",
+        "role": "Voluntário",
         "company": "ESN Porto",
         "website": "http://www.esnporto.org/",
         "period": "2013-09 até 2017-03",
         "location": "Porto, Portugal",
-        "descriptions": []
+        "descriptions": [
+          "Responsável por manter o site atual.",
+          "Responsável pela plataforma de atribuição de buddies.",
+        ]
       }
     ],
     "label_phone": "Telefone",
