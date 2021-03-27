@@ -77,7 +77,6 @@ function load(language) {
           <div class="skills-section-title"><b>${skill.label}</b></div>
           <ul class="skills-section-list">${skillList}</ul>
         </div>
-
       `;
     });
 
@@ -100,6 +99,38 @@ function load(language) {
     });
 
     additionalSection.innerHTML = `<ul class="additional-section-list">${additionalList}</ul>`;
+
+    // history section
+    const historySection = document.querySelector("#history-section");
+    let historyList = "";
+
+    translations.jobs.forEach(
+      ({ role, company, website, period, location, descriptions }) => {
+        historyList += `
+        <li class="history-section-item">
+          <div class="history-section-item-header">
+            <div class="history-section-item-line">
+              <div class="history-section-item-role">${role}</div>
+              <div class="history-section-item-period">${period}</div>
+            </div>
+            <div class="history-section-item-line">
+              <div class="history-section-item-company">
+                <a href="${website}" target="_blank">${company}</a>
+              </div>
+              <div class="history-section-item-location">${location}</div>
+            </div>
+          </div>
+          <ul>
+            ${descriptions
+              .map((description) => `<li>${description}</li>`)
+              .join("")}
+          </ul>
+        </li>
+      `;
+      }
+    );
+
+    historySection.innerHTML = `<ul class="history-section-list">${historyList}</ul>`;
   });
 }
 
